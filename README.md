@@ -1,6 +1,6 @@
 # Project - Guitar Tutor Website
 
-![Logo](icons/logo.svg)
+![Logo](src/icons/logo.svgi)
 
 This is a one-page website, made in html and css, and a minimum of js. 
 The project uses simple techniques for adapting the display of the site to various devices. 
