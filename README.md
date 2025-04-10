@@ -1,4 +1,4 @@
-# Guitar Instructor Portfolio Website - Educational Project
+# Guitar Instructor Portfolio Website - Learning Project
 
 <img src="icons/logo.svg" width="150" alt="Guitar Instructor Logo">
 
