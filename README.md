@@ -1,6 +1,4 @@
-# Guitar Instructor Portfolio Website - Learning Project
-
-<img src="icons/logo.svg" width="150" alt="Guitar Instructor Logo">
+# Guitar Instructor Portfolio Website - Learning Project <img src="icons/logo.svg" width="100" alt="Guitar Instructor Logo">
 
 ## Project Overview
 Professional portfolio website for a guitar instructor, showcasing teaching methodology, experience.
